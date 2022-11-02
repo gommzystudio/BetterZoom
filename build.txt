@@ -1,5 +1,5 @@
 displayName = Better Zoom
-author = NotLe0n
+author = NotLe0n and Gommzy
 version = 4.1
 hideCode = false
 hideResources = false
